@@ -16,7 +16,6 @@
             @endforeach
         </div>
     </body> 
-    </head> 
 </html>   
 
 

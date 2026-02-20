@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-use instance\App\Http\Controllers; 
+use Instance\App\Http\Controllers; 
 
 class ProductController extends controller{ 
     public function index(){ 
